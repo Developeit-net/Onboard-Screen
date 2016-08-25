@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51c203b1a171189eafcc4b9fea6d1aa8cbb89502">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb84fe481fd66039a359215a8597bcc92c7bac40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c8f9c46a7f28824af8826ed1dee5b9b28e2a17bf">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a386990c5883e0b6fea8b9f13ff2d47d1e3b9f80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_2dbb4c2762f197feadf5833589f7249b05605a79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_a0a0901008421b5a9ee57ae0c6c9f28f2eb1d1a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-4.0.0_5fa5223fe1e3319a92ce23b819c276b5f0d2bd82/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e1aa060f28b9eb4b263bebb1c28abc0f5e8b45f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_b1cfacea39c201e157fd46809e1e423973d8a304/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_ed05ef81648a20698bfd14d87560f219ffcb2694/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vinothvino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/vinothvino/Desktop/AppIntroExNew/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_f62289628edac1032f5de28b5ba6ac6f111bf733/classes.dex" />
+    </item>
+
+</items>
